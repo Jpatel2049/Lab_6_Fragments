@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Lab_6</string>
+    <string name="colorText">Choose Color:</string>
+
+    <string-array name="android_colors_array">
+        <item>Magenta</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Maroon</item>
+        <item>Aqua</item>
+    </string-array>
+
+    <string-array name="colors_array">
+        <item>Magenta</item>
+        <item>White</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Black</item>
+        <item>Gray</item>
+        <item>Maroon</item>
+        <item>Aqua</item>
+    </string-array>
+
+</resources>
